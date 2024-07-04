@@ -1,0 +1,162 @@
+.one{
+    padding: 10px ;
+   background-color:white; 
+   height: 20px;
+   width: auto;
+   float:inline-start
+}
+.two{
+    padding: 30px;
+    height: 350px;
+    width: 600px;
+    float:inline-end
+}
+.three{
+   padding: 20px 40px 10px 30px; 
+
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+}
+p{
+    font-size:20px ;
+    padding-left: 40px;
+}
+.radi{
+padding: 4px 4px 4px 4px;
+font-style: inherit;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    height:35px ;
+    width:100px ;
+    }
+  .four{
+    /* display: flex;
+    flex-direction: row; */
+    float: left;
+    color: white;
+    text-align: center;
+    height: 200px;
+    width: 430px;
+    padding: 20px 30px;
+  }
+  #iam{
+margin-top: 35px;
+background-color: black;
+}
+  #my{
+    
+    background-color: aqua;
+}
+#me{
+    background-color: rgb(29, 162, 174);
+}
+#sky{
+
+text-align: center;
+
+}
+/* .see{
+    margin-left: 0;
+} */
+#five{
+    text-align: center;
+width: 90px;
+height:30px ;
+background-color: white;
+color: black;
+}
+.sorry{
+    background-color: aqua;
+}
+.six{
+    
+    height: 385px;
+    width: 400px;
+    float:inline-start
+}
+ /* #eight{
+     background-color: aqua
+    color:white;
+    height: 600px;
+width: 100%;
+}  */
+.seven{
+    margin-left: 580px;
+   padding: 30px 40px 10px 10px; 
+background-color: aqua;
+ font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+}
+#self{
+    margin-left: 550px;
+}
+
+.box{
+    margin-left: 300px;
+padding: 3px 3px 3px 3px;
+font-style: initial;
+    background-color:white;
+    color:aqua;
+    border-radius: 40px;
+    height:30px ;
+    width: 100px;
+}
+article{
+    text-align: center;
+}
+#aa{
+    /* display:flex;
+    flex-direction: row; */
+    text-align: center;
+    height: 300px;
+    width: 450px;
+    float: left;
+}
+.boxe{
+    border: 2px aqua;
+    margin-left: 45%;
+text-align: center;
+width: 120px;
+height:25px ;
+background-color:white;
+color: black;
+
+}
+.grey{
+    background-color: rgba(248, 228, 228, 0.699);
+}
+
+ .ele{
+    padding-left: 30px;
+    height: 400px;
+    width: 500px;
+    float:inline-end
+}
+.twe{
+    /* background-color: rgba(248, 228, 228, 0.699); */
+   /* padding: 20px 40px 10px 30px;  */
+   padding-left:30px ;
+width:auto ;
+
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+}
+ p{
+
+    font-size:20px ;
+    padding-left: 40px;
+} 
+.click{
+    
+padding: 4px 4px 4px 4px;
+font-style: inherit;
+    background-color:aqua;
+    color: white;
+    border-radius: 40px;
+    height:35px ;
+    width:100px ;
+    }
